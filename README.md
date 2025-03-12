@@ -1,4 +1,4 @@
-# Predicting Changes in Exchange Rates Using SVM and Different Machine Learning Methods
+# Predicting Exchange Rates Using SVM and Different Machine Learning Methods
 
 ## Aalto University, August 2022
 
